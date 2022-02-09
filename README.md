@@ -16,9 +16,9 @@ A dedicated website which has the features of open electives course allocation w
 3.	OVERALL PROJECT REPORT – shows if all the project objective and milestones are being met, also includes different tasks being completed. 
 
 Software:
-	Internet Browser (Google chrome, Safari, Firefox)
+Internet Browser (Google chrome, Safari, Firefox)
 
 Hardware:
-	4GB RAM
-	Usual Computer setup
-	High speed internet connection
+	4GB RAM
+  Usual Computer setup
+  High speed internet connection
